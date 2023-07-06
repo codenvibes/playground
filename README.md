@@ -9,5 +9,5 @@ Feel free to browse through the code, provide feedback, or even collaborate on n
 
 ---
 
-#### [Chatbot_HTML_CSS_JS](https://github.com/codenvibes/playground/tree/master/Chatbot_HTML_CSS_JS)
-#### [Portfolio_Website](https://github.com/codenvibes/playground/tree/master/Portfolio_Website)
+- [Chatbot_HTML_CSS_JS](https://github.com/codenvibes/playground/tree/master/Chatbot_HTML_CSS_JS)
+- [Portfolio_Website](https://github.com/codenvibes/playground/tree/master/Portfolio_Website)
