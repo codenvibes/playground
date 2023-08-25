@@ -6,8 +6,8 @@ This repository is a collection of projects where I actively practice and refine
 Feel free to browse through the code, provide feedback, or even collaborate on new ideas. Let's embark on this coding journey together and strive for continuous improvement!
 
 <br>
-
----
+<p align="center">**********</p>
+<br>
 
 - [Chatbot_HTML_CSS_JS](https://github.com/codenvibes/playground/tree/master/Chatbot_HTML_CSS_JS)
 - [Portfolio_Website](https://github.com/codenvibes/playground/tree/master/Portfolio_Website)
