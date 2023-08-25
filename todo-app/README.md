@@ -1,4 +1,4 @@
-# **TODO APP**
+# <p align="center">**TODO APP**</p>
 
 > In the quest for understanding modern web development, I embarked on a journey by entering a simple prompt: "Teach me how to create a fullstack app from start to end with a basic example." This request led to a comprehensive guide that introduced me to the dynamic MERN stack – a synergy of MongoDB, Express.js, React, and Node.js. Through step-by-step instructions, I learned to craft both the frontend and backend components of a web application. With newfound knowledge, I gained insights into setting up a server, connecting to databases, developing UI elements, and managing user interactions. This experience ignited my curiosity to delve deeper into the world of full-stack development, inspiring me to build more intricate and feature-rich applications in the future.
 
