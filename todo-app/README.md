@@ -8,11 +8,11 @@ Creating a full-stack app involves building both the frontend and backend compon
 
 Here's a step-by-step guide:
 
-**1. Setup:**
+### **1. Setup:**
 
 Make sure you have Node.js and npm (Node Package Manager) installed on your system.
 
-**2. Backend (Server):**
+### **2. Backend (Server):**
 
 **2.1. Initialize Backend:**
 
@@ -76,7 +76,7 @@ app.listen(PORT, () => {
 });
 ```
 
-**3. Frontend (Client):**
+### **3. Frontend (Client):**
 
 **3.1. Initialize Frontend:**
 
@@ -171,7 +171,7 @@ function App() {
 export default App;
 ```
 
-**4. Run the App:**
+### **4. Run the App:**
 
 In separate terminal windows, run the backend server and the frontend React app:
 
