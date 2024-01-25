@@ -25,7 +25,7 @@ import sys
 import pygame
 
 
-def play_sound(volume=1.0):
+def play_sound(volume=0.1):
     """
     Play a beep sound with optional volume adjustment.
 
