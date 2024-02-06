@@ -5,7 +5,7 @@
 
 ## Defintions
 <details>
-<summary><b><a href=" "></a></b></summary><br>
+<summary><b><a href=" "></a>Ngrok</b></summary><br>
 
 Ngrok stands for "Network Grok." The term "grok" comes from the science fiction novel "Stranger in a Strange Land" by Robert A. Heinlein and means "to understand deeply and completely." Ngrok aims to provide a way to deeply understand and interact with networked systems, allowing developers to easily expose and share their local development environments with others over the internet.
 
@@ -59,45 +59,36 @@ Ngrok is a tool that creates secure tunnels to localhost. It is commonly used fo
 
 <br>
 
-## Resources
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
+## Getting Started
+1. **Create Free Accounts:**
+   - Sign up for free accounts on OpenAI, Twilio, AWS, and Ngrok.
 
+2. **Twilio Setup:**
+   - Open the Twilio console and register your WhatsApp number.
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
+3. **Flask App Creation:**
+   - Create a Flask app for your chatbot.
 
+4. **AWS EC2 Launch:**
+   - Launch an EC2 instance on AWS to host your Flask app.
 
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
+5. **EC2 Requirements Installation:**
+   - Install the necessary requirements (dependencies, libraries) for your Flask app on the EC2 instance.
 
+6. **Credentials Setup:**
+   - Set up your credentials for OpenAI and Ngrok on the EC2 instance.
 
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
+7. **Flask App Execution:**
+   - Run your Flask app on the EC2 instance.
 
+8. **Ngrok Configuration:**
+   - Run Ngrok on the same port as your Flask app to create a secure tunnel.
 
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
+9. **Twilio Integration:**
+   - Set up the Ngrok URL in the Twilio console's WhatsApp Sandbox settings.
 
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
-
-
-<details>
-<summary><b><a href=" "> </a></b></summary><br>
-
-
-<br><p align="center">※※※※※※※※※※※※</p><br>
-</details>
+10. **Activation:**
+    - Your chatbot is now activated and ready to use!
 
 
 <!-- <br>
