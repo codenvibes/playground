@@ -98,10 +98,13 @@ Ngrok is a tool that creates secure tunnels to localhost. It is commonly used fo
 
 <br>
 
-## Learning Objectives
+## File Overview
 <details>
-<summary><b><a href=" "> </a></b></summary><br>
+<summary><b><a href=" "> </a>requirements.txt</b></summary><br>
 
+This file typically contains a list of dependencies required for a Python project to run. Each line in the `requirements.txt` file specifies a package name, optionally followed by a version specifier indicating the minimum version required.
+
+When you run `pip install -r requirements.txt`, pip (Python's package installer) reads the `requirements.txt` file and installs the specified packages and their dependencies into the current Python environment. This command is commonly used in Python projects to ensure that all required dependencies are installed in a consistent manner across different environments.
 
 <br><p align="center">※※※※※※※※※※※※</p><br>
 </details>
