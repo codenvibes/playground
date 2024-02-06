@@ -49,35 +49,7 @@
 <br>
 
 ## Getting Started
-1. **Create Free Accounts:**
-   - Sign up for free accounts on OpenAI, Twilio, AWS, and Ngrok.
 
-2. **Twilio Setup:**
-   - Open the Twilio console and register your WhatsApp number.
-
-3. **Flask App Creation:**
-   - Create a Flask app for your chatbot.
-
-4. **AWS EC2 Launch:**
-   - Launch an EC2 instance on AWS to host your Flask app.
-
-5. **EC2 Requirements Installation:**
-   - Install the necessary requirements (dependencies, libraries) for your Flask app on the EC2 instance.
-
-6. **Credentials Setup:**
-   - Set up your credentials for OpenAI and Ngrok on the EC2 instance.
-
-7. **Flask App Execution:**
-   - Run your Flask app on the EC2 instance.
-
-8. **Ngrok Configuration:**
-   - Run Ngrok on the same port as your Flask app to create a secure tunnel.
-
-9. **Twilio Integration:**
-   - Set up the Ngrok URL in the Twilio console's WhatsApp Sandbox settings.
-
-10. **Activation:**
-    - Your chatbot is now activated and ready to use!
 
 
 <!-- <br>
