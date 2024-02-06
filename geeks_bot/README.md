@@ -61,7 +61,7 @@
 
 ## File Overview
 <details>
-<summary><b><a href=" "> </a><code>requirements.txt</code></b></summary><br>
+<summary><b><a href="https://github.com/codenvibes/playground/blob/master/geeks_bot/requirements.txt"> <code>requirements.txt</code></a></b></summary><br>
 
 This file typically contains a list of dependencies required for a Python project to run. Each line in the `requirements.txt` file specifies a package name, optionally followed by a version specifier indicating the minimum version required.
 
