@@ -5,7 +5,7 @@
 
 ## Defintions
 <details>
-<summary><b><a href=" ">Ngrok</a></b></summary><br>
+<summary><b><a href=" "></a></b></summary><br>
 
 Ngrok stands for "Network Grok." The term "grok" comes from the science fiction novel "Stranger in a Strange Land" by Robert A. Heinlein and means "to understand deeply and completely." Ngrok aims to provide a way to deeply understand and interact with networked systems, allowing developers to easily expose and share their local development environments with others over the internet.
 
