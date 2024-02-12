@@ -48,7 +48,7 @@ def beep_every_10_minutes():
     try:
         while True:
             # Wait for 10 minutes
-            time.sleep(60)  # 10 minutes = 600 seconds
+            time.sleep(600)  # 10 minutes = 600 seconds
             # Produce a beep sound and display notification
             threading.Thread(target=play_sound).start()
             threading.Thread(target=show_notification, args=("Discipline comes from self control.\nIf you do not conquer self\nyou will be conquered by self",)).start()
