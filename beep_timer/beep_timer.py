@@ -20,9 +20,10 @@ Note:
 - Replace "beep.wav" with the path to your own sound file.
 """
 import time
-# import winsound
 import sys
 import pygame
+from tkinter import Tk, Label
+import threading
 
 
 def play_sound(volume=0.1):
@@ -47,15 +48,29 @@ def beep_every_10_minutes():
     try:
         while True:
             # Wait for 10 minutes
-            time.sleep(600)  # 10 minutes = 600 seconds
-            # Produce a beep sound
-            # winsound.Beep(1000,1000) # Freq = 1000Hz, Dur = 1000ms (1 second)
-            # sys.stdout.write('\a')
-            # sys.stdout.flush()
-            play_sound()
+            time.sleep(60)  # 10 minutes = 600 seconds
+            # Produce a beep sound and display notification
+            threading.Thread(target=play_sound).start()
+            threading.Thread(target=show_notification, args=("Discipline comes from self control.\nIf you do not conquer self\nyou will be conquered by self",)).start()
     except KeyboardInterrupt:
         print("\nProgram terminated by user.")
         sys.exit()
+
+
+
+def show_notification(text):
+    """
+    Displays a notification dialog with specified text.
+
+    Args:
+    - text (str): The text to display in the notification dialog.
+    """
+    root = Tk()
+    root.title("Notification")
+    label = Label(root, text=text)
+    label.pack()
+    root.after(12000, root.destroy)  # Close the dialog after 3000 milliseconds (3 seconds)
+    root.mainloop()
 
 
 if __name__ == "__main__":
