@@ -67,6 +67,7 @@ def show_notification(text):
     """
     root = Tk()
     root.title("Notification")
+    root.attributes("-topmost", True)  # Display window on top of others
     label = Label(root, text=text)
     label.pack()
     root.after(12000, root.destroy)  # Close the dialog after 3000 milliseconds (3 seconds)
