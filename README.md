@@ -1,7 +1,7 @@
 # <p align="center">**PLAYGROUND**</p>
-"Welcome to my Code Practice Playground!"
+"Welcome to the Code Practice Playground!"
 
-This repository is a collection of projects where I actively practice and refine my coding skills. It serves as a creative and experimental space for me to explore various programming languages, frameworks, and concepts. Through these projects, I aim to enhance my coding proficiency, problem-solving abilities, and software development techniques.
+This repository is a collection of projects where we actively practice and refine our coding skills. It serves as a creative and experimental space for us to explore various programming languages, frameworks, and concepts. Through these projects, We aim to enhance our coding proficiency, problem-solving abilities, and software development techniques.
 
 Feel free to browse through the code, provide feedback, or even collaborate on new ideas. Let's embark on this coding journey together and strive for continuous improvement!
 
